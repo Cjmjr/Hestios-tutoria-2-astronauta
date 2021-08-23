@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: 396e3ae8408dd084680e9562f9ae6cd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4295212360228191966
+    second: Sprite Sheet Completa e certa_0
+  - first:
+      213: -4758860530030327212
+    second: Sprite Sheet Completa e certa_1
+  - first:
+      213: -473257454503072161
+    second: Sprite Sheet Completa e certa_2
+  - first:
+      213: -6676310444129576410
+    second: Sprite Sheet Completa e certa_3
+  - first:
+      213: -4862531798563898899
+    second: Sprite Sheet Completa e certa_4
+  - first:
+      213: 3203370232971075349
+    second: Sprite Sheet Completa e certa_5
+  - first:
+      213: -6037873368004385651
+    second: Sprite Sheet Completa e certa_6
+  - first:
+      213: -3674944854210051006
+    second: Sprite Sheet Completa e certa_7
+  - first:
+      213: 905644970581404624
+    second: Sprite Sheet Completa e certa_8
+  - first:
+      213: -7689684127636070261
+    second: Sprite Sheet Completa e certa_9
+  - first:
+      213: -7793872246121252215
+    second: Sprite Sheet Completa e certa_10
+  - first:
+      213: 139907006641603806
+    second: Sprite Sheet Completa e certa_11
+  - first:
+      213: 5615827091608614797
+    second: Sprite Sheet Completa e certa_12
+  - first:
+      213: 5907054183197400835
+    second: Sprite Sheet Completa e certa_13
+  - first:
+      213: -1983291508986296179
+    second: Sprite Sheet Completa e certa_14
+  - first:
+      213: 1777493479318907707
+    second: Sprite Sheet Completa e certa_15
+  - first:
+      213: 3373106545204177315
+    second: Sprite Sheet Completa e certa_16
+  - first:
+      213: -7439444756684402109
+    second: Sprite Sheet Completa e certa_17
+  - first:
+      213: -147420794729352274
+    second: Sprite Sheet Completa e certa_18
+  - first:
+      213: 5279364636973326607
+    second: Sprite Sheet Completa e certa_19
+  - first:
+      213: -969790540248280900
+    second: Sprite Sheet Completa e certa_20
+  - first:
+      213: 2606406773118889156
+    second: Sprite Sheet Completa e certa_21
+  - first:
+      213: -9076591241816478847
+    second: Sprite Sheet Completa e certa_22
+  - first:
+      213: 5755909751825852162
+    second: Sprite Sheet Completa e certa_23
+  - first:
+      213: -1270231749789629156
+    second: Sprite Sheet Completa e certa_24
+  - first:
+      213: 7425145985388197436
+    second: Sprite Sheet Completa e certa_25
+  - first:
+      213: 30741351181162843
+    second: Sprite Sheet Completa e certa_26
+  - first:
+      213: 9182834694775778914
+    second: Sprite Sheet Completa e certa_27
+  - first:
+      213: 5265646240424091402
+    second: Sprite Sheet Completa e certa_28
+  - first:
+      213: 3868711373961536989
+    second: Sprite Sheet Completa e certa_29
+  - first:
+      213: -4744169581932189629
+    second: Sprite Sheet Completa e certa_30
+  - first:
+      213: 603043149918455193
+    second: Sprite Sheet Completa e certa_31
+  - first:
+      213: 8284725274001661836
+    second: Sprite Sheet Completa e certa_32
+  - first:
+      213: -6452983226853431461
+    second: Sprite Sheet Completa e certa_33
+  - first:
+      213: -8647994196388178454
+    second: Sprite Sheet Completa e certa_34
+  - first:
+      213: 1139958280727401677
+    second: Sprite Sheet Completa e certa_35
+  - first:
+      213: -5557029933674767553
+    second: Sprite Sheet Completa e certa_36
+  - first:
+      213: -8223499626295033548
+    second: Sprite Sheet Completa e certa_37
+  - first:
+      213: 5268616400349429943
+    second: Sprite Sheet Completa e certa_38
+  - first:
+      213: -2706926456540336090
+    second: Sprite Sheet Completa e certa_39
+  - first:
+      213: 8014035355031018074
+    second: Sprite Sheet Completa e certa_40
+  - first:
+      213: -3828029717961927416
+    second: Sprite Sheet Completa e certa_41
+  - first:
+      213: 4102496574985653107
+    second: Sprite Sheet Completa e certa_42
+  - first:
+      213: 7574237826637373820
+    second: Sprite Sheet Completa e certa_43
+  - first:
+      213: 2731946180411081008
+    second: Sprite Sheet Completa e certa_44
+  - first:
+      213: -8618710022364941805
+    second: Sprite Sheet Completa e certa_45
+  - first:
+      213: -8344142843778353443
+    second: Sprite Sheet Completa e certa_46
+  - first:
+      213: -536960018036857946
+    second: Sprite Sheet Completa e certa_47
+  - first:
+      213: 7202549061899058404
+    second: Sprite Sheet Completa e certa_48
+  - first:
+      213: -8167042875032643223
+    second: Sprite Sheet Completa e certa_49
+  - first:
+      213: 1739700700703654492
+    second: Sprite Sheet Completa e certa_50
+  - first:
+      213: 1297110208925351080
+    second: Sprite Sheet Completa e certa_51
+  - first:
+      213: 6578039321368987906
+    second: Sprite Sheet Completa e certa_52
+  - first:
+      213: -3462654139735371846
+    second: Sprite Sheet Completa e certa_53
+  - first:
+      213: 8958485910869548860
+    second: Sprite Sheet Completa e certa_54
+  - first:
+      213: 573531672434057277
+    second: Sprite Sheet Completa e certa_55
+  - first:
+      213: -4333087496241525410
+    second: Sprite Sheet Completa e certa_56
+  - first:
+      213: 802666101556897709
+    second: Sprite Sheet Completa e certa_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3582
+        width: 244
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb44672e8ab9b30800000000000000
+      internalID: 4295212360228191966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3582
+        width: 274
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4aebbf8125fdb0800000000000000
+      internalID: -4758860530030327212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_2
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3582
+        width: 267
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee9014ad6ae69f0800000000000000
+      internalID: -473257454503072161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_3
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3582
+        width: 263
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a1d6f060bf853a0800000000000000
+      internalID: -6676310444129576410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3068
+        width: 435
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9be8d8711d48cb0800000000000000
+      internalID: -4862531798563898899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_5
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3068
+        width: 435
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1d443148a47c20800000000000000
+      internalID: 3203370232971075349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_6
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 3068
+        width: 453
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ae4d692a253ca0800000000000000
+      internalID: -6037873368004385651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 3068
+        width: 450
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24409a33029fffcc0800000000000000
+      internalID: -3674944854210051006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_8
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 3068
+        width: 424
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbaf1c6d4f719c00800000000000000
+      internalID: 905644970581404624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_9
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 3068
+        width: 420
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80ea411701c84590800000000000000
+      internalID: -7689684127636070261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_10
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 3068
+        width: 342
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aba216c7a96d390800000000000000
+      internalID: -7793872246121252215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_11
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 3064
+        width: 210
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed406786eac01f100800000000000000
+      internalID: 139907006641603806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2558
+        width: 409
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87b8536cfc6fed40800000000000000
+      internalID: 5615827091608614797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_13
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2558
+        width: 386
+        height: 454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f57729b721af150800000000000000
+      internalID: 5907054183197400835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_14
+      rect:
+        serializedVersion: 2
+        x: 5482
+        y: 3008
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c2d861eee974e0800000000000000
+      internalID: -1983291508986296179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_15
+      rect:
+        serializedVersion: 2
+        x: 6236
+        y: 2547
+        width: 289
+        height: 465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b6061e6eceaa810800000000000000
+      internalID: 1777493479318907707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2554
+        width: 293
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a078088eafce20800000000000000
+      internalID: 3373106545204177315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2554
+        width: 367
+        height: 447
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421fafd868c1c890800000000000000
+      internalID: -7439444756684402109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_18
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2558
+        width: 371
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b6a9719144fdf0800000000000000
+      internalID: -147420794729352274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_19
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2551
+        width: 30
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ed828a22144940800000000000000
+      internalID: 5279364636973326607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_20
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2558
+        width: 401
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb097fd44ac9a82f0800000000000000
+      internalID: -969790540248280900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_21
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 2558
+        width: 353
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc6ceb9621db2420800000000000000
+      internalID: 2606406773118889156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_22
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 2554
+        width: 326
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b6b1cfa58790280800000000000000
+      internalID: -9076591241816478847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_23
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 2554
+        width: 263
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20769c45c6911ef40800000000000000
+      internalID: 5755909751825852162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_24
+      rect:
+        serializedVersion: 2
+        x: 4714
+        y: 2558
+        width: 277
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15cd5b14fa3f5ee0800000000000000
+      internalID: -1270231749789629156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_25
+      rect:
+        serializedVersion: 2
+        x: 4852
+        y: 2551
+        width: 19
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363b700fea6b0760800000000000000
+      internalID: 7425145985388197436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_26
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 2551
+        width: 304
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59911598173d6000800000000000000
+      internalID: 30741351181162843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_27
+      rect:
+        serializedVersion: 2
+        x: 5737
+        y: 2551
+        width: 282
+        height: 453
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2e3d808bff6f70800000000000000
+      internalID: 9182834694775778914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_28
+      rect:
+        serializedVersion: 2
+        x: 6769
+        y: 2551
+        width: 266
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f59596b55531940800000000000000
+      internalID: 5265646240424091402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_29
+      rect:
+        serializedVersion: 2
+        x: 7136
+        y: 2558
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5ad7f4f7c60b530800000000000000
+      internalID: 3868711373961536989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_30
+      rect:
+        serializedVersion: 2
+        x: 7147
+        y: 2554
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e7b2a6e2592eb0800000000000000
+      internalID: -4744169581932189629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2044
+        width: 274
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9954f1fbc807e5800800000000000000
+      internalID: 603043149918455193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2044
+        width: 318
+        height: 469
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fd19a0eb149f270800000000000000
+      internalID: 8284725274001661836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_33
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 2044
+        width: 348
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e8ddc1f56276a0800000000000000
+      internalID: -6452983226853431461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_34
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2044
+        width: 352
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae594a0f8172cf780800000000000000
+      internalID: -8647994196388178454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_35
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2044
+        width: 352
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4958d3402f1df00800000000000000
+      internalID: 1139958280727401677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1549
+        width: 360
+        height: 469
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5a1db7b671e2b0800000000000000
+      internalID: -5557029933674767553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_37
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1534
+        width: 387
+        height: 484
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431802ce8a240ed80800000000000000
+      internalID: -8223499626295033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_38
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1534
+        width: 251
+        height: 454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b000a8a3b2ed1940800000000000000
+      internalID: 5268616400349429943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_39
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 1530
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207ecccab01f6ad0800000000000000
+      internalID: -2706926456540336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1020
+        width: 469
+        height: 454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a9b0af1b2973f60800000000000000
+      internalID: 8014035355031018074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_41
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1020
+        width: 349
+        height: 454
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059d37d04b10eac0800000000000000
+      internalID: -3828029717961927416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 510
+        width: 285
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc64426eefee830800000000000000
+      internalID: 4102496574985653107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_43
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 506
+        width: 292
+        height: 432
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712c0d5c291d1960800000000000000
+      internalID: 7574237826637373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_44
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 510
+        width: 322
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03143ec9392d9e520800000000000000
+      internalID: 2731946180411081008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_45
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 510
+        width: 409
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b6d606e0346880800000000000000
+      internalID: -8618710022364941805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_46
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 510
+        width: 371
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63971fa46a33c80800000000000000
+      internalID: -8344142843778353443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_47
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 510
+        width: 390
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3635265b55c88f0800000000000000
+      internalID: -536960018036857946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_48
+      rect:
+        serializedVersion: 2
+        x: 6435
+        y: 540
+        width: 67
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf0d7063894f360800000000000000
+      internalID: 7202549061899058404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_49
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 570
+        width: 72
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695b48a6c5d8ae80800000000000000
+      internalID: -8167042875032643223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_50
+      rect:
+        serializedVersion: 2
+        x: 6401
+        y: 300
+        width: 68
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5280f8e198a42810800000000000000
+      internalID: 1739700700703654492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_51
+      rect:
+        serializedVersion: 2
+        x: 6547
+        y: 300
+        width: 72
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3785dcd2400210800000000000000
+      internalID: 1297110208925351080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 176
+        width: 71
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20900cc29e3e94b50800000000000000
+      internalID: 6578039321368987906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_53
+      rect:
+        serializedVersion: 2
+        x: 6787
+        y: 323
+        width: 195
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf8905e76e22ffc0800000000000000
+      internalID: -3462654139735371846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_54
+      rect:
+        serializedVersion: 2
+        x: 7061
+        y: 146
+        width: 68
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f98bac87fe25c70800000000000000
+      internalID: 8958485910869548860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_55
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 116
+        width: 180
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d302ed2740895f700800000000000000
+      internalID: 573531672434057277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_56
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 4
+        width: 117
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d46dd31e7cdd3c0800000000000000
+      internalID: -4333087496241525410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet Completa e certa_57
+      rect:
+        serializedVersion: 2
+        x: 6915
+        y: 4
+        width: 116
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7eb801194a32b00800000000000000
+      internalID: 802666101556897709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
